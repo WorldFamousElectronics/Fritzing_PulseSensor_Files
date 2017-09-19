@@ -9,5 +9,4 @@
 * Fritz On!
 
 ## .fzp and .svg files
-These are the core files for using the Pulse Sensor in Fritzing. If you are a Fritzer, you can download this part at [link]. Files are for reference only. If you Fritz, it's easier to just download from [link]. Fritz on...
-
+These are the core files for the Pulse Sensor part in Fritzing. They are here for reference only. If you Fritz, it's best practice to use the import method above. 
